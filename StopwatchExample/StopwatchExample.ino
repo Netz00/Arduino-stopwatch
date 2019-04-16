@@ -17,11 +17,11 @@ void loop() {
   Time = timer1.getValue(); //read elapsed time since we started stopwatch, 1st WAY, PUT DATA IN "Time" and then display "Time"
   Serial.printf ("TIME: %s\n", Time); //display day, hour, minute, second, 
   delay(1000);
-  Serial.printf ("TIME: %s\n", timer1.getValue()); //2nd PUT timer1.Time() IN PRINTF
+  Serial.printf ("TIME: %s\n", timer1.getValue()); //2nd WAY PUT timer1.Time() IN PRINTF
     delay(1000);
-  Serial.printf ("TIME: %s\n", timer1.getValue()); //2nd PUT timer1.Time() IN PRINTF
+  Serial.printf ("TIME: %s\n", timer1.getValue()); 
     delay(1000);
-  Serial.printf ("TIME: %s\n", timer1.getValue()); //2nd PUT timer1.Time() IN PRINTF
+  Serial.printf ("TIME: %s\n", timer1.getValue()); 
   
   
   timer1.stop();//we paused timer
