@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Stopwatch
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Stopwatch	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getValue     	KEYWORD2
+getValueMinSec	KEYWORD2
+start	        KEYWORD2
+stop	        KEYWORD2
+reset         	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
