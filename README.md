@@ -1,6 +1,7 @@
 # Arduino-stopwatch
 Library for Arduino with which you can easily use your Arduino as stopwatch.
 Simple library which is very useful and doesn't require any other components than Arduino.
+
 INSTRUCTIONS:
 
 1. Include library, "#include <Stopwatch.h>"
