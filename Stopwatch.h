@@ -1,6 +1,6 @@
 ;/*
   Stopwatch.h - Library for timing.
-  Created by Božo Durdov, April 16, 2019.
+  Created by Netz00, April 16, 2019.
   Released into the public domain.
 */
 #ifndef Stopwatch_h
